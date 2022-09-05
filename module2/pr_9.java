@@ -1,6 +1,6 @@
 package module2;
 
-class area
+class area1
 {
 	public void find(int r)
 	{
@@ -16,7 +16,7 @@ class area
 
 public class pr_9 {
 	public static void main(String[] args) {
-		area a1=new area();
+		area1 a1=new area1();
 		a1.find(12);
 		a1.find(12, 13);
 		
